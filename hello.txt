@@ -13,4 +13,4 @@ hello Azure! hello git!
 hello Azure! hello git!
 hello Azure! hello git!
 hello Azure! hello git!
-hello Azure! hello git!
+hello Azure! hello git! hot-fix test
