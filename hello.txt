@@ -1,5 +1,5 @@
-hello Azure! hello git! aaaaaaaaaa
-hello Azure! hello git! bbbbbbbbbb
+hello Azure! hello git! aaaaa
+hello Azure! hello git! bbbbb
 hello Azure! hello git!
 hello Azure! hello git!
 hello Azure! hello git!
